@@ -1,3 +1,5 @@
+console.log("Stating rick roll")
+
 var rrv = document.createElement("video");
 
 rrv.type = "video/mp4"
@@ -10,3 +12,5 @@ document.body.appendChild(rrv)
 
 rrv.requestFullscreen()
 rrv.play()
+
+console.log("Rick roll started!!!")
