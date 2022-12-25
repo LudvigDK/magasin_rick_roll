@@ -1,7 +1,7 @@
 var rrv = document.createElement("video");
 
 rrv.type = "video/mp4"
-rrv.src = "https://github.com/LudvigDK/magasin_rick_roll/blob/main/rick_vid.mp4?raw=true"
+rrv.src = "https://raw.github.com/LudvigDK/magasin_rick_roll/main/rick_vid.mp4"
 
 vid.loop = true
 rrv.allowfulscreen = true
